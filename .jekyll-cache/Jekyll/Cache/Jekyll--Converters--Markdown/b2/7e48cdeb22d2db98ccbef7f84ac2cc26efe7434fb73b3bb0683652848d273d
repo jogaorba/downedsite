@@ -1,0 +1,101 @@
+I";<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="lee_navigating_2021" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Navigating the Mise-en-Page: Interpretive Machine Learning Approaches to the Visual Layouts of Multi-Ethnic Periodicals</div>
+          <!-- Author -->
+          <div class="author">Lee, Benjamin Charles Germain,&nbsp;Ortiz Baco, Joshua G.,&nbsp;Salter, Sarah H,&nbsp;and Casey, Jim
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>This paper presents a computational method of analysis that draws from machine learning, library science, and literary studies to map the visual layouts of multi-ethnic newspapers from the late 19th and early 20th century United States. This work departs from prior approaches to newspapers that focus on individual pieces of textual and visual content. Our method combines Chronicling America’s MARC data and the Newspaper Navigator machine learning dataset to identify the visual patterns of newspaper page layouts. By analyzing high-dimensional visual similarity, we aim to better understand how editors spoke and protested through the layout of their papers.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="baco_introduccion_2020" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Introducción a ImagePlot y la visualización de metadatos de colecciones de imágenes</div>
+          <!-- Author -->
+          <div class="author">Ortiz Baco, Joshua G.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Programming Historian en español</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>En esta lección se ofrece una introducción a ImagePlot, una herramienta para generar visualizaciones basadas en los datos de colecciones de imágenes o videos.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="ortiz_baco_digital_2019" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Digital Pedagogy and Methodology to Connect Diverse Communities</div>
+          <!-- Author -->
+          <div class="author">Ortiz Baco, Joshua G.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em>Digital Frontiers Annual Conference Proceedings</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Discussion of digital scholarship efforts that have built on digitized MUPI collections. These include the design of a distant viewing workshop using political posters; the transformation of Bordadoras de Memorias into a digital exhibition; and curated teaching resources for high school World History courses co-designed with the College of Education and Department of History graduate students at UT-Austin. This talk reflects on the ethical and practical challenges that have emerged alongside these opportunities.</p>
+          </div>
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET

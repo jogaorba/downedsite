@@ -1,0 +1,84 @@
+I"¶<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">In progress</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/blog/projects/1_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog/assets/img/map-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog/assets/img/map-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog/assets/img/map-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img src="/blog/assets/img/map.png" alt="project thumbnail" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Unearthing Abolitionisms in 19th Century Foreign Language Press</h2>
+          <p class="card-text">Project funded by USLdh 2020</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/blog/projects/2_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog/assets/img/11-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog/assets/img/11-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog/assets/img/11-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img src="/blog/assets/img/11.png" alt="project thumbnail" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Puerto Rico Architectural Heritage Archive</h2>
+          <p class="card-text">Post-custodial archival project recovering photographic materials of architectural heritage in Puerto Rico.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/blog/projects/3_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    <source media="(max-width: 480px)" srcset="/blog/assets/img/network-480.webp" />
+    <source media="(max-width: 800px)" srcset="/blog/assets/img/network-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/blog/assets/img/network-1400.webp" />
+    <!-- Fallback to the original file -->
+    <img src="/blog/assets/img/network.png" alt="project thumbnail" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Abolitionism in Transit - Visualizing 19th C. Press Networks</h2>
+          <p class="card-text">Dissertation project using cultural studies and digital humanities methods to explore the history of abolitionism.</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div></div>
+
+</div>
+:ET
