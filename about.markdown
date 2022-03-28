@@ -1,0 +1,9 @@
+---
+layout: page
+title: About/Más Información
+permalink: /about/
+---
+
+This is the public presentation for the Unearthing Abolitionism Project by Joshua G. Ortiz Baco. The site is currently in construction and will host visualizations, datasets, introductions to the historical content, and tutorials for recreating this site.
+
+
