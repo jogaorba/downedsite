@@ -1,4 +1,4 @@
-I"k<!-- pages/projects.md -->
+I"ˆ<!-- pages/projects.md -->
 <div class="projects">
   <!-- Display categorized projects -->
   <h2 class="category">In progress</h2>
@@ -6,15 +6,15 @@
   <div class="grid"><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/1_project/">
+  <a href="/jogaorba.github.io/projects/1_project/">
       <div class="card hoverable"><figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/map-480.webp" />
-    <source media="(max-width: 800px)" srcset="/assets/img/map-800.webp" />
-    <source media="(max-width: 1400px)" srcset="/assets/img/map-1400.webp" />
+    <source media="(max-width: 480px)" srcset="/jogaorba.github.io/assets/img/map-480.webp" />
+    <source media="(max-width: 800px)" srcset="/jogaorba.github.io/assets/img/map-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/jogaorba.github.io/assets/img/map-1400.webp" />
     <!-- Fallback to the original file -->
-    <img src="/assets/img/map.png" alt="project thumbnail" />
+    <img src="/jogaorba.github.io/assets/img/map.png" alt="project thumbnail" />
 
   </picture>
 
@@ -31,15 +31,15 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/2_project/">
+  <a href="/jogaorba.github.io/projects/2_project/">
       <div class="card hoverable"><figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/11-480.webp" />
-    <source media="(max-width: 800px)" srcset="/assets/img/11-800.webp" />
-    <source media="(max-width: 1400px)" srcset="/assets/img/11-1400.webp" />
+    <source media="(max-width: 480px)" srcset="/jogaorba.github.io/assets/img/11-480.webp" />
+    <source media="(max-width: 800px)" srcset="/jogaorba.github.io/assets/img/11-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/jogaorba.github.io/assets/img/11-1400.webp" />
     <!-- Fallback to the original file -->
-    <img src="/assets/img/11.png" alt="project thumbnail" />
+    <img src="/jogaorba.github.io/assets/img/11.png" alt="project thumbnail" />
 
   </picture>
 
@@ -56,15 +56,15 @@
 </div><!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  <a href="/projects/3_project/">
+  <a href="/jogaorba.github.io/projects/3_project/">
       <div class="card hoverable"><figure>
 
   <picture>
-    <source media="(max-width: 480px)" srcset="/assets/img/network-480.webp" />
-    <source media="(max-width: 800px)" srcset="/assets/img/network-800.webp" />
-    <source media="(max-width: 1400px)" srcset="/assets/img/network-1400.webp" />
+    <source media="(max-width: 480px)" srcset="/jogaorba.github.io/assets/img/network-480.webp" />
+    <source media="(max-width: 800px)" srcset="/jogaorba.github.io/assets/img/network-800.webp" />
+    <source media="(max-width: 1400px)" srcset="/jogaorba.github.io/assets/img/network-1400.webp" />
     <!-- Fallback to the original file -->
-    <img src="/assets/img/network.png" alt="project thumbnail" />
+    <img src="/jogaorba.github.io/assets/img/network.png" alt="project thumbnail" />
 
   </picture>
 
